@@ -104,18 +104,13 @@ Zamiast analizować wyłącznie sukces dostaw, dashboard uwzględnia także anal
 
 Analiza wspiera monitorowanie jakości operacyjnej, identyfikację problemów logistycznych i ocenę efektywności dostaw. Szczególnie przydatna do wykrywania obszarów wymagających usprawnienia.
 Analiza podkreśla także wysoką efektywność dostaw, szybszy czas dostawy niż zakładany oraz procentowy sukces dostaw.  
----
 
-# Miary DAX (_Measures)
 
-W projekcie utworzono dedykowany folder **_Measures**, zawierający własne miary biznesowe wykorzystywane w dashboardzie.
 
-# Miary DAX (_Measures)
 
-W projekcie utworzono dedykowany folder **_Measures**, zawierający własne miary biznesowe wykorzystywane w dashboardzie.
 
 ## Utworzone miary
-
+W projekcie utworzono dedykowany folder **_Measures**, zawierający własne miary biznesowe wykorzystywane w dashboardzie.
 - **Total Revenue**  
   Oblicza całkowity przychód na podstawie wszystkich płatności klientów.
 
