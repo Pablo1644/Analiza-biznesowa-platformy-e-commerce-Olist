@@ -107,7 +107,7 @@ Analiza podkreśla także wysoką efektywność dostaw, szybszy czas dostawy ni�
 
 
 
-
+---
 
 ## Utworzone miary
 W projekcie utworzono dedykowany folder **_Measures**, zawierający własne miary biznesowe wykorzystywane w dashboardzie.
