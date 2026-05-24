@@ -249,7 +249,10 @@ Projekt pokazuje praktyczne wykorzystanie umiejętności takich jak:
 ---
 
 # Raport
-
+![Executive Overview](https://github.com/Pablo1644/Analiza-biznesowa-platformy-e-commerce-Olist/raw/main/strona1.png)
+![Executive Overview](https://github.com/Pablo1644/Analiza-biznesowa-platformy-e-commerce-Olist/raw/main/strona2.png)
+![Executive Overview](https://github.com/Pablo1644/Analiza-biznesowa-platformy-e-commerce-Olist/raw/main/strona3.png)
+![Executive Overview](https://github.com/Pablo1644/Analiza-biznesowa-platformy-e-commerce-Olist/raw/main/strona4.png)
 # Kluczowe insighty biznesowe
 
 - Karty kredytowe stanowią dominującą metodę płatności klientów.
