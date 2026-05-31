@@ -34,6 +34,7 @@ W analizie wykorzystano następujące zbiory danych:
 ## 1. Executive Overview
 
 Strona przedstawia najważniejsze wskaźniki biznesowe w formie szybkiego podsumowania wyników działalności.
+Wizualizacje przedstawione są dla dostarczonych zamówień.
 
 Zawiera kluczowe KPI:
 
@@ -48,14 +49,14 @@ Sekcja ta pozwala zobaczyć ogólny zarys przychodów, oraz przenalizować któr
 
 ## 2. Product & Sales Analysis
 
-Strona skupia się na analizie wyników sprzedażowych produktów jak i efektywności sprzedawców.
+Strona skupia się na analizie wyników sprzedażowych produktów jak i efektywności sprzedawców. Wizualizacje przedstawione są dla dostarczonych zamówień.
 
 Zawiera:
 
 - **Top 5 kategorii pod względem sumarycznego przychodu - Top Product Categories by Product Revenue**
 - **Top 5 miast pod wzlędem przychodu - Top Seller Cities by Product Revenue**
 - **Informacja o strukturze przychodu - Revenue Structure**
-- **Top 5 kategorii pod względem średniego przychodu - Top 5 Highest Average Product Price by Category**
+- **Top 5 kategorii pod względem ilości zamówień - Top Product Categories by Numbers of Orders**
 
 Przeprowadzono transformację danych polegającą na tłumaczeniu kategorii produktów z portugalskiego na język angielski 
 
@@ -67,7 +68,7 @@ Analiza pozwala zidentyfikować najbardziej opłacalne segmenty produktowe, najs
 
 ## 3. Customer Analysis
 
-Strona koncentruje się na analizie zachowań klientów.
+Strona koncentruje się na analizie zachowań klientów. Wizualizacje przedstawione są dla dostarczonych zamówień.
 
 Zawiera:
 
